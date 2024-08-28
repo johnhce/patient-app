@@ -1,0 +1,35 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+/* html {
+    color: #363636;
+    font-size: 13pt;
+    font-family: Source Sans Pro, Calibri, Arial, sans-serif;
+}
+body {
+    background-color: #258CDB;
+}
+.loginBox {
+    background-color: rgba(255, 255, 255, 0.75);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    border: none;
+    padding: 50px;
+    margin: 20px;
+    border-radius: 6px;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.2);
+}
+*/
+.login-btn {
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+}
+.logout-btn {
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+}
